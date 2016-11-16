@@ -1,0 +1,39 @@
+{
+  "author": {
+    "email": "vintproykt@gmail.com",
+    "name": "Rodion Borisov"
+  },
+  "bugs": {
+    "url": "https://github.com/VINTproYKT/node-static-console-plugin-dom-output/issues"
+  },
+  "dependencies": {
+    "static-console": "latest"
+  },
+  "description": "Plugin for printing your `static-console` messages to DOM.",
+  "homepage": "https://github.com/VINTproYKT/node-static-console-plugin-dom-output#readme",
+  "keywords": [
+    "plugin",
+    "output",
+    "console",
+    "dom",
+    "document",
+    "html",
+    "log",
+    "nodes",
+    "message"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "vintproykt@gmail.com",
+      "name": "vintproykt"
+    }
+  ],
+  "name": "static-console-plugin-dom-output",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINTproYKT/node-static-console-plugin-dom-output.git"
+  },
+  "version": "1.0.0"
+}
